@@ -13,7 +13,7 @@ Kanban/Todo приложение на **NestJS (Backend) + Next.js (Frontend)** 
 ---
 
 ## 🚀  Запуск 
-#### 📌 Бэкенд (NestJS)
+#### 📌 Backend (NestJS)
 ```bash
 cd backend
 npm install
@@ -22,7 +22,7 @@ npx prisma migrate dev  # Запуск миграций
 npm run start:dev
 ```
 
-#### 📌 Фронтенд (Next.js)
+#### 📌 Frontend (Next.js)
 ```bash
 cd frontend
 npm install
